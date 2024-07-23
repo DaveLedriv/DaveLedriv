@@ -54,7 +54,7 @@
 - **Objetivos:** Validar y documentar la funcionalidad de la plataforma móvil y web.
 - **Repositorio:** [Urban Grocers Automation Tests](https://github.com/DaveLedriv/Urban-Grocers-Automation-Tests)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveledriv&show_icons=true&locale=en&layout=compact" alt="daveledriv" /></p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daveledriv&show_icons=true&locale=en" alt="daveledriv" /></p>
 
