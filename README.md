@@ -9,8 +9,6 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/DaveLedriv](https://github.com/DaveLedriv)
 
-- 📝 Escribo artículos ocasionales sobre [calidad de software y pruebas](https://medium.com/@daveledriv)
-
 - 💬 Pregúntame sobre **QA manual y automatización, Selenium, Python**
 
 - 📫 Puedes contactarme en **delr0810@gmail.com**
@@ -20,7 +18,7 @@
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-elias-ledesma-rivera-2a8a5722b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-elias-ledesma-rivera-2a8a5722b" height="30" width="40" /></a>
-<a href="https://medium.com/@daveledriv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@daveledriv" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
@@ -37,7 +35,6 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.jira.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jira/jira_1.png" alt="jira" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Proyectos destacados:</h3>
@@ -54,8 +51,8 @@
 - **Objetivos:** Validar y documentar la funcionalidad de la plataforma móvil y web.
 - **Repositorio:** [Urban Grocers Automation Tests](https://github.com/DaveLedriv/Urban-Grocers-Automation-Tests)
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daveledriv&show_icons=true&locale=en" alt="daveledriv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveledriv&show_icons=true&locale=en&layout=compact" alt="daveledriv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daveledriv&" alt="daveledriv" /></p>
+
+
