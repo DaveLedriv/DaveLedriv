@@ -42,14 +42,16 @@
 ### 🚕 Urban Routes
 - **Descripción:** Plataforma web para pedir taxis en línea.
 - **Tecnologías:** Selenium, Python, JIRA, Git.
-- **Objetivos:** Asegurar la calidad y funcionalidad del sistema de reservas y pagos.
-- **Repositorio:** [Urban Routes Automation Tests](https://github.com/DaveLedriv/Urban-Routes-Automation-Tests)
+- **Objetivos** Asegurar la calidad y funcionalidad del sistema de reservas y pagos.
+- **Pruebas automatizadas:** [Urban Routes Automation Tests](https://github.com/DaveLedriv/Urban-Routes-Automation-Tests)
+- **Prubas manuales:** [Urban Routes Manual Tests](https://github.com/DaveLedriv/Urban-Routes-Manual-Test)
 
 ### 🛒 Urban Grocers
 - **Descripción:** Urban Grocers es una aplicación que proporciona información sobre tiendas de abarrotes y productos disponibles en áreas urbanas.
-- **Tecnologías:** Selenium, Python, Postman, JIRA, Git.
+- **Tecnologías:** Selenium, Python, Postman, JIRA, Git, Swagger.
 - **Objetivos:** Validar y documentar la funcionalidad de la plataforma y web.
-- **Repositorio:** [Urban Grocers Automation Tests](https://github.com/DaveLedriv/Urban-Grocers-Automation-Tests)
+- **Pruebas automatizadas** [Urban Grocers Automation Tests](https://github.com/DaveLedriv/Urban-Grocers-Automation-Tests)
+- **Pruebas API** [API Tests](https://github.com/DaveLedriv/Urban-Grocers-API-Tests)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daveledriv&show_icons=true&locale=en&layout=compact" alt="daveledriv" /></p>
 
