@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveledriv&label=Profile%20views&color=0e75b6&style=flat" alt="daveledriv" /> </p>
 
-- 🔭 Actualmente trabajo en [Instituto Tecnológico Superior De Álamo Temapache](https://www.tecalamo.edu.mx) como **Docente de la materia pruebas de software**
+- 🔭 Mi última experiencia laboral fue en [Instituto Tecnológico Superior De Álamo Temapache](https://www.tecalamo.edu.mx) como **Docente de la materia pruebas de software**
 
 - 🌱 Estoy aprendiendo **automatización de pruebas con Python y Selenium**
 
