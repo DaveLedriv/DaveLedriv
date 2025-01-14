@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveledriv&label=Profile%20views&color=0e75b6&style=flat" alt="daveledriv" /> </p>
 
-- 🔭 Mi última experiencia laboral fue en [Instituto Tecnológico Superior De Álamo Temapache](https://www.tecalamo.edu.mx) como **Docente de la materia pruebas de software**
+- 🔭 Mi última experiencia laboral fue en [Vemasmas](#) como **QA Tester**
 
-- 🌱 Estoy aprendiendo **automatización de pruebas con Python y Selenium**
+- 🌱 Siempre estoy actualizandome en **automatización de pruebas con Python y Selenium**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/DaveLedriv](https://github.com/DaveLedriv)
 
