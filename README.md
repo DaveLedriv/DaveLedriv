@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveledriv&label=Profile%20views&color=0e75b6&style=flat" alt="daveledriv" /> </p>
 
-- 🔭 Mi última experiencia laboral fue en [Vemasmas](#) como **QA Tester**
+- 🔭 Actualmente trabajo en  [Vemasmas](#) como **QA Tester**
 
-- 🌱 Siempre estoy actualizandome en **automatización de pruebas con Python y Selenium**
+- 🌱 Siempre estoy actualizandome en **automatización de pruebas**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/DaveLedriv](https://github.com/DaveLedriv)
 
-- 💬 Pregúntame sobre **QA manual y automatización, Selenium, Python**
+- 💬 Pregúntame sobre **QA manual y automatización, Selenium, Python, Jmeter, etc.**
 
 - 📫 Puedes contactarme en **delr0810@gmail.com**
 
@@ -35,7 +35,9 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.jira.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://jmeter.apache.org/" target="_blank"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/> </a>
 </p>
+
 
 <h3 align="left">Proyectos destacados:</h3>
 
